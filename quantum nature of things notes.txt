@@ -1,0 +1,28 @@
+Summary of Highlights Through Section 2.7
+Chapters 1–2.7: Ontological Foundations Through Enumeration
+
+1. Enumeration and Identity
+
+The book establishes enumeration as the foundation of physical theory. To describe a system, one must count distinguishable alternatives.
+
+This counting leads naturally into Hilbert spaces and basis vectors in quantum theory.
+
+The notion of “what can be distinguished” is treated as fundamental, not derived—a move that quietly shifts ontology toward epistemic minimalism.
+
+2. Sets, Properties, and Perspective
+
+Properties only exist in relation to observers—or more precisely, to partitions of possibility space.
+
+There’s an emphasis on relational structure: not just “what is,” but “what is distinguishably different.”
+
+3. Measurement and Probability
+
+The text does a slow build toward the Born rule, developing probability from distinguishability, not as an axiom.
+
+Measurement is framed not just as discovery but reduction of a possibility space through enumeration.
+
+4. Quantum Weirdness via Counting
+
+Superposition and entanglement are not “weird” when viewed as structure in possibility space defined by countable bases.
+
+The language of counting flips the ontology: instead of particles or waves, the fundamental entity is the space of alternatives.
