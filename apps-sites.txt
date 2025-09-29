@@ -8,6 +8,9 @@ Avogadro
 GPT4All
 VMD 2.0
 Zotero
+Mozilla Firefox
+WhatsApp
+
 
 
 gmail.com
@@ -19,3 +22,7 @@ linkedin.com
 kayak.com 
 substack.com 
 chatgpt.com 
+github.com 
+drive.google.com 
+google.com 
+bing.com 
