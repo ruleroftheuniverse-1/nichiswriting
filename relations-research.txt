@@ -1,0 +1,57 @@
+Relations Org Research Plans
+
+Each project needs:
+	Central question/goal
+	Plan
+	Bibliography
+	Relevant skills
+	Benefits
+
+systems
+	modeling
+		graphic
+		computational
+		mathematical
+		linguistic
+		physical
+		?
+	horizontal/vertical
+	theory/philosophy
+bio
+	taxonomy
+	evolution/development
+	ecologies
+	86% rule, etc.
+language
+	technical/ordinary
+	translation within/across languages
+reality/morality/ethics/practice
+social
+	familial
+	interpersonal
+	intrapersonal
+	macro
+	romantic/sexual
+power
+	sex
+		gender
+		orientation
+	class
+		income
+		wealth
+		culture
+	race
+		ethnicity
+		color
+		nationality
+time-space-?
+physical-psychological-phenomenal
+consciousness
+human-AI-?
+What makes for a relevant grouping?
+What are relations?
+	kinds
+	causes
+	effects
+	description
+relation of relation to itself?

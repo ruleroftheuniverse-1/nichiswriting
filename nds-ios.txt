@@ -1,0 +1,17 @@
+To play Nintendo DS games on iOS devices:
+
+1. Download the game you want from 
+https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/
+
+2. Either use the DeSmuME web emulator or else download and run the Delta app.
+
+Web emulator is quicker and easier to get setup for a single session. Delta is more efficient for longer term, repeated use.
+
+To use the web emulator, go to:
+https://www.desmume.com/online/
+Then upload the game you downloaded in step 1.
+
+To use Delta, download the app from: 
+https://apps.apple.com/us/app/delta-game-emulator/id1048524688
+Then start the app and open the game from step 1.
+
