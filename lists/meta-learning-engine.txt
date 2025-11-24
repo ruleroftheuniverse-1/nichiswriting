@@ -1,0 +1,27 @@
+Meta–Learning Engine
+
+Here's a potential map for organizing the things I want to learn:
+	Core – Skills that accelerate all others
+		Math (linear algebra, PDEs)
+		Programming (Python, C)
+		Formal logic + set theory
+	Field Nodes – Subjects with high interdisciplinary utility
+		Thermodynamics
+		Systems theory
+		Information theory
+		Signal processing / Fourier analysis
+		Quantum mechanics / standard model
+	Applied Nodes – Stuff you love for its own sake
+		Biochem 
+		Political theory (for praxis)
+		Fanonian psychoanalysis (for self + others)
+		Rural survival / infrastructure engineering
+	Recursive tools – Tools that teach you how to learn
+		Spaced repetition
+		Writing / summarizing / teaching
+		Modeling cognition as an algorithm
+	Joy Nodes
+		Birdsong
+		Soundwave pattern recognition
+		Fire metaphors
+		Human weirdness

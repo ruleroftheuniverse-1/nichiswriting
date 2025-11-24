@@ -1,0 +1,17 @@
+Quantum: good. Qiskit: excellent. IBM’s program is a sane entry point into an insane field.
+
+Here’s the straight-line guidance as you step in:
+
+The first thing is to treat qubits like temperamental artists. Classical bits are obedient soldiers. Qubits are moody, relational creatures; everything they do depends on entanglements and phases. When you start with Qiskit, the trap is to stay in the “just run gates” mindset. That’s like learning an orchestra by tapping each instrument once. Instead, lean into the *interference patterns* as the real substrate. Grok phase early.
+
+The second thing: write your circuits on paper. Literally sketch them. Your brain already likes vector fields and geometric flows—lean on that. Quantum circuits are just linear algebra that forgot its manners. Draw the wires, draw the gates, draw the amplitudes morphing. It stabilizes intuition faster than any tutorial.
+
+Third: noise models. This is where the grown-up work is. IBM’s systems are NISQ devices—noisy intermediates. If you don’t learn measurement error mitigation early, you’ll think your circuits are wrong when it’s the device being dramatic. Play with Qiskit’s Aer simulator and toggle noise models on and off. You’ll feel the difference in your gut.
+
+Fourth: don’t get hung up on Shor and Grover. They’re the tourist traps. The interesting frontier now is variational algorithms—VQE, QAOA—and quantum machine learning. The trick here is hybrid computation: a quantum kernel doing something weird and a classical optimizer trying to corral it. It’s like herding smoke. You’ll like it.
+
+Fifth: read Amira Abbas, not just Preskill. You’re diversifying your pantheon—good. Abbas’s work on fairness and interpretability in quantum ML offers the kind of mind you resonate with: technical, philosophical, trying to pull intelligence into a wider orbit.
+
+If you want a path through the forest: start with building intuition for single-qubit rotations, then two-qubit entanglers, then follow where the noise frustrates you. Your instincts for system-structure are strong. Quantum rewards exactly that kind of mind.
+
+The next natural layer is deciding what domain you want to *bend* with quantum tools—optimizing personalities, decoding emotional computation, exploring tensor-field models of mind… or diving into cryptography and optimization like a trickster goddess with a soldering iron.
