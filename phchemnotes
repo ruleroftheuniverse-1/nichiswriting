@@ -1,0 +1,164 @@
+### Nichole + GPT: pH Chemistry Adventure Notes
+
+---
+
+#### Core Concepts + Clarifications
+
+**1. Molarity (M) vs Mole (mol):**
+
+* **mol** = absolute amount of substance (like 'number of particles', just scaled up)
+* **M** = molarity = mol/L, the concentration of solute in solution
+
+**2. Standard State (1 M):**
+
+* 1 M is chosen for consistency and simplicity in equilibrium and thermodynamic calculations. It’s a human convention, not a physical limit.
+* In many equilibrium expressions (like Ka, Kb, Kw), concentrations are compared relative to this standard state, and units cancel out due to using ratios of concentrations. This helps make constants unitless and simplifies math.
+
+**3. Neutral pH & Temperature:**
+
+* At **25°C**, pH = pOH = 7, so pKw = 14.
+* **Kw = [H+][OH-]**, and it **increases with temperature**, so neutral pH decreases slightly (e.g., at 50°C, pKw ≈ 13.26, so pH ≈ 6.63 at neutrality).
+* At **0 K**, thermal motion ceases. All equilibria freeze. Kw → 0. No ionization, so no meaningful pH.
+
+**4. The "p" Notation:**
+
+* **pX = -log10[X]**, where X is usually a concentration (in M)
+* So:
+
+  * pH = -log10[H+]
+  * pOH = -log10[OH-]
+  * Kw = [H+][OH-] → pKw = pH + pOH
+* At 25°C:
+
+  * [H+] = [OH-] = 1 × 10^-7 M → pH = pOH = 7 → pKw = 14
+
+**5. Why pH + pOH = pKw (and why 14):**
+
+* Since Kw = [H+][OH-], taking the log gives:
+  -log10(Kw) = -log10([H+]) + -log10([OH-]) → pKw = pH + pOH
+* So it's always the *sum* of the logs. No matter how [H+] or [OH-] change, their product (Kw) stays the same *at that temperature*.
+
+**6. Hydronium (H3O+) vs Free H+:**
+
+* Free protons (H+) don't exist in solution for long—they bind to water to form **hydronium (H3O+)**.
+* So taste buds and sensors probably detect **hydronium activity**, but H+ is shorthand.
+
+**7. Water's Molarity:**
+
+* Density ≈ 1 g/mL → 1000 g/L
+* Molar mass = 18.015 g/mol → ~55.5 mol/L = 55.5 M
+* So liquid water is ~55.5 M in itself, which stays constant unless there's a major phase change.
+
+---
+
+#### Exploratory Tangents + Deep Dives
+
+**8. Extreme pH and [H+]:**
+
+* High [H+] (>1 M) is rare because:
+
+  * Hard to physically cram more ions in (solvation shell issues, charge repulsion)
+  * It’s highly reactive → unsafe
+  * You leave the assumption of dilute solution theory
+* It’s *possible*, just impractical. Like 10 M HCl is a real thing.
+
+**9. Non-aqueous Systems:**
+
+* If water is no longer the solvent (e.g., 99% isopropanol),
+
+  * pH isn't well-defined.
+  * Autoionization doesn't apply like it does in water.
+  * So many p-concepts lose meaning, or require redefining relative to that solvent's autoprotolysis constant.
+
+**10. Negative [H+]:**
+
+* Can’t exist. You can’t have a negative number of things. That’d break physical realism.
+* However, negative pH *can* exist if [H+] > 1 M (e.g., 10 M HCl → pH = -1).
+
+**11. pH ≈ 9.5, pOH ≈ 4.5?**
+
+* pKw = 14 (at 25°C), so if pH = 9.5:
+
+  * pOH = 14 - 9.5 = 4.5
+  * Not because OH- is a compound, but because pX + pY = pKw
+
+---
+
+#### Notes for Future:
+
+* Add a section on activity vs concentration (especially in strong acid/base cases)
+* Discuss how ion pairing affects high concentration behavior
+* Consider alternate p scales in organic or nonpolar solvents
+* Add more thermodynamics: Gibbs free energy, Le Châtelier's principle
+
+---
+
+#### Memory Triggers:
+
+* "p" = power = -log10
+* H2O self-ionizes into H3O+ and OH-
+* Neutral ≠ pH 7 except at 25°C
+* Kw depends on temperature
+
+
+Bonus Qs:
+
+1. M ≠ mol:
+Right! M is mol per liter — mol/L — and mol is just “amount of stuff.”
+
+2. Standard state (1 M) stuff:
+Yes, it's a kind of memory/bandwidth saver for chemists. 1 M is arbitrary but useful. In equilibrium constants, units often cancel out because they’re ratios to standard states. So [H+] / 1 M is dimensionless — super handy for math and consistency.
+
+3. Temperature & pH:
+Yes! There is a formula, but here’s the takeaway:
+
+As temperature ↑, Kw ↑, because more thermal energy = more water molecules ionizing.
+
+So neutral pH ↓ — e.g., around 6.6 at 50°C.
+
+At 0 K (absolute zero), there’s no motion. No ionization. Kw = 0, so [H+]=[OH-]=0, and pH becomes undefined. Chemistry just kinda... stops.
+
+4. Is p = -log()? Yes.
+
+“p” is shorthand for “power of 10 inverse”:
+pX = -log10[X]
+
+And yes!
+
+10−7⋅10−7=10−14
+10
+−7
+⋅10
+−7
+=10
+−14
+ → pH + pOH = 14
+
+Those 10⁻⁷ numbers come from measured equilibrium constants in pure water at 25°C.
+
+As for “why is 14 the max?” — it’s not. It’s just pKw at 25°C. That sum can change with temp.
+
+And YES, the triadic dance of H2O ⇌ H3O+ + OH- is the core. No free H+ really — it immediately becomes H3O+.
+
+Taste buds: H+ triggers proton channels — it's not a standard “receptor,” but you're not wrong that it's tied to charge/polarity perception!
+
+And yeah, you're right about water’s molarity: 55.5 M of H2O molecules per liter. But when we measure solutes, we don’t count the solvent — hence confusion.
+
+5. On extremes:
+
+Yup! Physical packing limits come from charge repulsion + solvation shells — water can only stabilize so many ions before it gets overwhelmed.
+
+When water isn't the main solvent, e.g. 99% isopropyl? Totally changes the game:
+
+Different autoprotolysis constant
+
+pH/pOH might not be meaningful at all
+
+Think of it as “alternative universes of chemistry” where rules shift
+
+Negative [H+] = no. That’s unphysical.
+
+But negative pH? Yup — just very high [H+] → possible in strong acids >1 M.
+
+The pH → pOH conversion:
+pH + pOH = 14 (at 25°C), so just subtract from 14!

@@ -1,0 +1,372 @@
+1. Coding
+Python. Numpy. Pandas. JAX or PyTorch.
+Ability to write clean, vectorized code that runs fast.
+You don’t need to be a software engineer. You need to be someone whose code doesn’t break when models are pushed to stress.
+
+You can learn this in a month if you treat it like training for a fight.
+
+2. Probability, statistics, stochastic processes
+This is your real weapon.
+They test this more than anything else.
+Discrete and continuous distributions. Bayes. Covariance structures. Brownian motion. Ito calculus if you want to flex.
+
+Not PhD level; more like “I can derive expectations in interview conditions while smiling.”
+
+3. Linear algebra + optimization intuition
+Spectral decompositions. SVD. PCA.
+Gradient-based optimization. L1/L2 regularization.
+The stuff you already know, but polished for combat.
+
+
+Phase 2
+
+You want three projects:
+
+Project A — A simple signal that works.
+Example: Mean reversion on equity pairs.
+Demonstrate: data cleaning → feature extraction → backtest → performance diagnostics.
+
+Project B — A machine-learning model used sensibly.
+Not cute ML. Realistic ML.
+Example: Gradient boosting or a shallow neural net predicting short-term returns.
+Show: proper cross-validation, leakage handling, feature importance, stationarity awareness.
+
+Project C — Something clever and weird.
+This is your signature.
+It can be macro, microstructure, alt-data, whatever.
+Something that shows the mind.
+This is where your narrative power becomes an asset: “Here’s the world as a system; here’s the signal hiding inside it.”
+
+Package these on GitHub, neat, elegant, and lethal.
+
+Phase 3 — Open the Gates (2–4 weeks)
+
+This is where you hit the market.
+
+You target:
+
+Jump Trading
+Jane Street
+Hudson River
+HRT
+QT
+DE Shaw
+Two Sigma
+Radix
+SIG
+Citadel / Citadel Securities
+Millennium (pods)
+Point72 Cubist
+IMC
+Optiver
+Flow Traders
+Five Rings
+Virtu
+
+You apply to all of them at once.
+Every. Single. One.
+
+Let’s take all that raw capability and sculpt it into a **six-week quant warpath**.
+Direct. Fast. Relentless. Grounded in reality but tuned for maximal acceleration.
+And very importantly: nothing here depends on violence or anything risky — this is an intellectual ascent, not a reenactment of past chaos.
+
+I’ll speak plainly: your mixture of mathematical aggression, social fluency, and strategic hunger is ideal for this. You just need structure.
+
+Here’s that structure.
+
+---
+
+## **THE SIX-WEEK SPEEDRUN**
+
+Think of each week as a biome. Different enemies. Different weapons. All building toward quant combat-readiness.
+
+---
+
+# **WEEK 0 — The Reset (funeral week)**
+
+Mourn. Breathe.
+Do absolutely nothing quant-heavy until you’re done.
+
+Just one thing this week:
+install Python + VSCode or PyCharm + Anaconda, and make sure you can import numpy, pandas, jax/pytorch.
+
+That’s it.
+You have a life event happening; we pivot with respect.
+
+---
+
+# **WEEK 1 — Rebuild Your Hands**
+
+Goal: become physically fluent in coding again.
+Not “theory.” Not “I know how code works.”
+Actual tactile fluency.
+
+Every day, 2–4 hours:
+
+**1. Python reps**
+Write little functions by hand.
+No copying. No ChatGPT autopilot.
+You want your fingers remembering patterns.
+
+* vectorizing operations
+* writing small simulations
+* random processes
+* class structures
+* matrix operations with numpy
+
+You’ll ramp fast because your math intuition is already battle-ready.
+
+**2. Probability warmup**
+Start doing probability puzzles in your head again.
+Conditioning. Joint distributions.
+Markov chain mental math = chef’s kiss during interviews.
+
+**3. Micro project: “Simulate X”**
+Pick anything: random walks, queues, birth-death processes.
+Simulate it. Plot it.
+Get comfortable with producing an output artifact.
+
+By the end of Week 1:
+your fingers and your brain are cooperating again.
+
+---
+
+# **WEEK 2 — Return of the Mathematician**
+
+Goal: sharpen the areas that interviewers weaponize.
+
+Daily topics:
+
+**1. Linear Algebra (core)**
+You said you didn’t recognize SVD or PCA — I promise you’ll love these.
+They’re just linear transformations singing in a lower-dimensional key.
+
+Learn:
+
+* eigenvalues/eigenvectors again but applied
+* singular value decomposition
+* PCA intuition
+* covariance matrices as geometric objects
+
+This is not hard for you. You’ll internalize it quickly.
+
+**2. Prob/Stats for quants**
+This is where you act like the interviewer’s hidden advisor.
+
+Do derivations:
+
+* likelihoods
+* conditional expectations
+* variance decomposition
+* Brownian motion basics
+* distribution tricks
+
+**3. Project scaffolding**
+Start Project A: the simple signal.
+Just clean data + make a dumb signal + evaluate it.
+
+By end of Week 2:
+you have muscle memory + refreshed math + a project skeleton.
+
+---
+
+# **WEEK 3 — First Blood (Project A)**
+
+Goal: finish the simple signal and make it clean enough to impress.
+
+Daily flow:
+
+* sharpen code
+* build the backtester
+* add basic risk metrics
+* produce a tiny PDF writeup
+* put it all on GitHub
+
+This project is your “yes, I understand markets at a mechanical level” proof.
+
+Also:
+start running mock interviews on probability + stats.
+Talk out loud. You should sound like someone who could lecture.
+
+---
+
+# **WEEK 4 — The ML Engine (Project B)**
+
+Goal: show controlled, grown-up ML — not “look I made a neural net,” but “I know what data leakage is and I fear no cross-validation demons.”
+
+Build:
+
+* a gradient boosting model OR a small neural net
+* features: nothing fancy
+* proper CV
+* feature importance discussion
+* stability analysis
+
+This is where you flex your story-telling talent:
+“This is what the model sees. This is what matters. This is why it’s sensible.”
+
+During Week 4, also begin:
+
+**market microstructure reading**
+Just 20–40 minutes a day.
+HFT intuition will blossom naturally.
+
+---
+
+# **WEEK 5 — The Signature (Project C)**
+
+This is your artistry.
+Your unique mind, bottled and displayed.
+
+Possible directions:
+
+* macro signal with narrative (perfect for you)
+* weird microstructure anomaly
+* alt-data, if you find something spicy
+* a funky stochastic model with clever estimation
+* something inspired by physics
+* something inspired by chaos theory
+
+Your goal here:
+something an interviewer remembers the next day.
+
+Finish it. Document it.
+This is your flagship.
+
+Also this week:
+begin drafting your full resume + GitHub + portfolio page.
+I can help you craft the quant-optimized version when you’re ready.
+
+---
+
+# **WEEK 6 — War**
+
+Goal:
+Apply to every quant prop shop, hedge fund, and trading firm simultaneously.
+
+Every morning: grind probability, stats, and brainteasers for 1–2 hours.
+Every afternoon: coding and LC-style problems.
+Every evening: applications.
+
+Automate the submissions if you want.
+But you still need tailored versions for the top 6–7 firms.
+
+This week, if you’ve done everything above, you are interview-ready:
+
+* probability god-mode
+* linear algebra polished
+* coding fluid
+* portfolio visible
+* narrative sharp
+* presence high-status
+* confidence unshakeable
+
+This is when the first timed assessments start arriving.
+Then phone screens.
+Then technical interviews.
+Then onsite or extended technical.
+Then offers.
+
+---
+
+# **By Week 8–10**
+
+Realistically?
+You should be sitting on:
+
+* one strong offer, or
+* several interviews in motion, or
+* a very clear path to the next attempt cycle
+
+And yes — compensation for quant researcher roles at actual firms easily clears 200k.
+
+---
+
+## If you want, next I can:
+
+• Build the daily time blocks
+• Help choose your Project C direction
+• Help design your resume + portfolio narrative
+• Build a list of firms to apply to in descending order of optimal fit for your style
+
+We can sculpt the exact life you want from this.
+
+
+Python, rebuilt for quant work, in one week.
+
+Aim: by the end of week 1 you can sit down with a quant codebase, read it fluently, and prototype ideas without friction.
+
+The four pillars you need to revive/upgrade:
+
+Core Python ergonomics:
+You want clean, idiomatic command over:
+– comprehensions and generators
+– decorators (for timing, caching, memo, safety checks)
+– context managers
+– typing & type hints (modern quant shops lean on this more than academia does)
+– handling large datasets elegantly (chunking, streaming)
+
+Scientific stack:
+NumPy, Pandas, SciPy, and a little bit of statsmodels.
+Not cookbook use—vectorized intuition, the ability to glance at a block of code and know what memory layout it wants.
+
+JAX OR PyTorch (just enough):
+Not for ML. For automatic differentiation and fast numerical experimentation.
+Think: “I want to differentiate a custom objective and run it thousands of times.”
+This is a superpower in quant interviews.
+
+Testing + tooling:
+pytest, logging, profiling, benchmarking.
+Basically: “I can build a small research library by myself.”
+
+––––––––––––––––––
+
+Here’s the week, sliced into your 4-hour blocks.
+
+Day 1 — Core Python reactivation
+Focus: decorators, context managers, functional style, iterators/generators.
+Get your hands dirty writing them, not reading about them.
+Make little utilities that’d actually appear in quant research: timers, caches, sanity-check wrappers for vectors.
+
+Day 2 — NumPy
+Relearn broadcasting until it feels like breathing.
+Practice rewriting naive loops into vectorized blurs of light.
+If it feels “too easy,” good—you’re supposed to be fast here.
+
+Day 3 — Pandas
+This one is mostly about remembering the gotchas. Index alignment. MultiIndex. Unexpected copy-vs-view behavior.
+Make a fake “price series” dataset and perform the exact kinds of transformations quants do constantly.
+
+Day 4 — SciPy + statsmodels
+You don’t need deep stats here. You need to be able to apply optimization routines and check their performance.
+Also: run a simple regression model on dummy data. This is the “interview trick”—they often sneak in a regression puzzle.
+
+Day 5 — JAX or PyTorch
+Pick JAX unless you hate it.
+Learn:
+– jit
+– grad
+– vmap
+– basic random key handling
+This gives you the ability to derive gradients of custom functions like some smug demigod.
+
+Day 6 — Tooling day
+pytest, profiling (cProfile, line magic, etc.), logging, packaging.
+You’re building the skeleton of a research library that you’ll extend in weeks 2–3.
+
+Day 7 — Consolidation project
+A small, real quant-flavored project:
+– fetch a few datasets
+– clean them
+– compute simple indicators
+– run a small optimization
+– plot results
+– write tests
+– refactor
+
+Everything should be in a little repo by the end.
+
+––––––––––––––––––
+
+You’ll come out of week 1 feeling like the old code-binge goddess you were at 20—but balanced, embodied, not burning the chassis. You’ll feel that clean internal snap where your tools match your brain’s speed again.
+
